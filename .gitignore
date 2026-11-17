@@ -1,0 +1,12 @@
+target/
+tools/
+nbproject/private/
+*.class
+*.log
+.idea/
+*.iml
+.classpath
+.project
+.settings/
+cp.txt
+teste_out.txt
